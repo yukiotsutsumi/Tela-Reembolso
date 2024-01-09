@@ -1,0 +1,38 @@
+.cadastro-reembolso {
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.cadastro-reembolso input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.cadastro-reembolso button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.cadastro-reembolso button:hover {
+  background-color: #45a049;
+}
+
+.cadastro-reembolso textarea {
+  width: 100%;
+  max-width: 100%;
+  height: 100px;
+  resize: vertical;
+  box-sizing: border-box;
+}
